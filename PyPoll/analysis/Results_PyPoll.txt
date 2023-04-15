@@ -1,0 +1,18 @@
+Election results:
+------------------------------------------ 
+Total Votes:369710
+------------------------------------------
+Diana DeGette              272892
+Charles Casper Stockham     85213
+Raymon Anthony Doane        11606
+Name: Candidate, dtype: int64
+------------------------------------------
+Percentage votes
+272892 ------> 73.81%
+85213 ------> 23.05%
+11606 ------> 3.14%
+------------------------------------------ 
+Winner: 
+Diana DeGette    272892
+Name: Candidate, dtype: int64
+------------------------------------------ 
